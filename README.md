@@ -1,0 +1,1 @@
+Script for quick IP change when using STRONG 4G LTE 300 mobile router with 4GROUTER300_V1.0 firmware
